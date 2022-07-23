@@ -1,5 +1,8 @@
 ### Hi there, this is dragon_bra 👋
 
+- 🔭 I’m currently studying in MAC Lab, Xiamen University
+- 🌱 I’m currently learning CS61A, AutoML
+
 <!--
 **dragonbra/dragonbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
