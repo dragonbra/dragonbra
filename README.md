@@ -1,7 +1,7 @@
 ## Hi there, this is dragon_bra 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=dark)">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=vue)">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=dark&show_icons=true)">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=vue&show_icons=true)">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 I'm Jinyu He, a graduate student at XMU.
 
