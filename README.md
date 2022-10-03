@@ -3,13 +3,13 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=dark&show_icons=true)">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=vue&show_icons=true)">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
-I'm Jinyu He, a graduate student at XMU.
+I'm Jinyu He, a CS graduate student @XMU
 
 - 📜 I’m currently studying in [MAC Lab](https://mac.xmu.edu.cn/)
 - 💬 Welcome to my [blog](https://dragonbra.github.io/) & maybe leave some comments.
 - 🔭 I’m working on AutoML
-- 🌱 I’m learning cs61a@UCB
-- ✨ I was an ACMer
+- 🌱 I’m learning cs61a
+- ✨ I‘m a former ACMer @HHU
 - 😄 Pronouns: he/him
 
 ---
