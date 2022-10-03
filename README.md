@@ -7,6 +7,15 @@
 - 😄 Pronouns: he, him
 - ✨ I was an ACMer.
 
+---
+
+### 🧙 [Stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![dragonbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonbra&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+#### :bar_chart: [Weekly coding time](https://github.com/muety/wakapi)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
