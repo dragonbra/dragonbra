@@ -1,20 +1,19 @@
-### Hi there, this is dragon_bra 👋
+## Hi there, this is dragon_bra 👋
 
-- 📜 I’m currently studying in MAC Lab, Xiamen University
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=dark)">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=vue)">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+
+I'm Jinyu He, a graduate student at XMU.
+
+- 📜 I’m currently studying in [MAC Lab](https://mac.xmu.edu.cn/)
+- 💬 Welcome to my [blog](https://dragonbra.github.io/) & maybe leave some comments.
 - 🔭 I’m working on AutoML
 - 🌱 I’m learning cs61a@UCB
-- 📫 Welcome to my [blog](https://dragonbra.github.io/)
-- 😄 Pronouns: he, him
-- ✨ I was an ACMer.
+- ✨ I was an ACMer
+- 😄 Pronouns: he/him
 
 ---
-
-### 🧙 [Stats](https://github.com/anuraghazra/github-readme-stats)
-
-[![dragonbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonbra&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
----
-#### :bar_chart: [Weekly coding time](https://github.com/muety/wakapi)
+#### ⌨️ [Weekly coding time](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
