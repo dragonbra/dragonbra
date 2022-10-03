@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently studying in MAC Lab, Xiamen University
 - 🌱 I’m currently learning CS61A, AutoML
-- 👯 I was an ACMer with Cu, and now I have my final chance to get Ag. Fight!
-
+- 👯 I was an ACMer.
 <!--
 **dragonbra/dragonbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
