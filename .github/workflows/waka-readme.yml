@@ -13,7 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: [UPDATE] Wakapi stats
+          COMMIT_MESSAGE: "[UPDATE] Wakapi stats"
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
           # following flags are required, only if this is not on
