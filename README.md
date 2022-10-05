@@ -5,15 +5,15 @@
 
 I'm Jinyu He, a CS graduate student @XMU
 
-- 📜 I’m currently studying in [MAC Lab](https://mac.xmu.edu.cn/)
-- 💬 Welcome to my [blog](https://dragonbra.github.io/) & maybe leave some comments.
-- 🔭 I’m working on AutoML
-- 🌱 I’m learning cs61a
-- ✨ I‘m a former ACMer @HHU
-- 😄 Pronouns: he/him
+- 📜 I'm currently studying in [MAC Lab](https://mac.xmu.edu.cn/)
+- 💬 Welcome to my [blog](https://dragonbra.github.io/) & leave some comments
+- 🔭 My research interest is AutoML
+- 🌱 I'm learning cs61a
+- ✨ I'm a former ACMer @HHU
+- 😄 Pronouns: He/Him
 
 ---
-#### ⌨️ [Weekly coding time](https://github.com/muety/wakapi)
+#### ⌨️ [Weekly Coding Time](https://wakatime.com/dashboard)
 
 <!--START_SECTION:waka-->
 
