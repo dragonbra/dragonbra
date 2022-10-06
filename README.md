@@ -10,7 +10,7 @@ I'm Jinyu He, a CS graduate student @XMU
 - 🔭 My research interest is AutoML
 - 🌱 I'm learning cs61a
 - ✨ I'm a former ACMer @HHU
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 ---
 #### ⌨️ [Weekly Coding Time](https://wakatime.com/dashboard)
