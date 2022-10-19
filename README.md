@@ -8,7 +8,7 @@ I'm Jinyu He, a CS graduate student @XMU
 - 📜 I'm currently studying in [MAC Lab](https://mac.xmu.edu.cn/)
 - 💬 Welcome to my [blog](https://dragonbra.github.io/) & leave some comments
 - 🔭 My research interest is AutoML
-- 🌱 I'm learning cs61a
+- 🌱 I'm learning cs61a, AutoML Lecture
 - ✨ I'm a former ACMer @HHU
 - 😄 Pronouns: He/Him/His
 
