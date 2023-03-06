@@ -13,7 +13,7 @@ I'm Jinyu He, a CS graduate student @XMU
 - 😄 Pronouns: He/Him/His
 
 ---
-#### ⌨️ [Weekly Coding Time / Fortnight](https://wakatime.com/dashboard)
+#### ⌨️ [Weekly Coding Time / Recent 2 weeks](https://wakatime.com/dashboard)
 
 <!--START_SECTION:waka-->
 
