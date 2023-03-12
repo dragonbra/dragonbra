@@ -18,7 +18,7 @@ I'm Jinyu He, a CS graduate student @XMU
 <!--START_SECTION:waka-->
 
 ```text
-Other      13 hrs 24 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜   65.73 %
+Other    13 hrs 24 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜   66.16 %
 ```
 
 <!--END_SECTION:waka-->
