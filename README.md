@@ -18,8 +18,7 @@ I'm Jinyu He, a CS graduate student @XMU
 <!--START_SECTION:waka-->
 
 ```text
-Python     2 hrs 26 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.13 %
-Other      2 hrs 18 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.84 %
+Other      9 hrs 36 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   99.53 %
 ```
 
 <!--END_SECTION:waka-->
