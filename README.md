@@ -17,7 +17,7 @@ I'm Jinyu He, a CS graduate student @XMU
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
