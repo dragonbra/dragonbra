@@ -3,17 +3,17 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=dark&show_icons=true)">](https://metrics.lecoq.io/dragonbra#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dragonbra&theme=vue&show_icons=true)">](https://metrics.lecoq.io/dragonbra#gh-light-mode-only)
 
-I'm Jinyu He, a CS graduate student @XMU
+I'm dragonbra, a CS graduate student @XMU
 
 - 📜 I'm currently studying in [MAC Lab](https://mac.xmu.edu.cn/)
 - 💬 Welcome to my [blog](https://dragonbra.github.io/) & leave some comments
 - 🔭 My research interest is AutoML
-- 🌱 I'm learning cs61a, AutoML Lecture
+- 🌱 I'm learning cuda and parallel programming (CS267)
 - ✨ I'm a former ACMer @HHU
 - 😄 Pronouns: He/Him/His
 
 ---
-#### ⌨️ [Weekly Coding Time](https://wakatime.com/dashboard)
+#### ⌨️ [Weekly Coding Time](https://wakatime.com/dashboard) \[Currently in an internal network environment, unable to be tracked\]
 
 <!--START_SECTION:waka-->
 
