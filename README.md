@@ -13,7 +13,7 @@ I'm dragonbra, a CS graduate student @XMU
 - 😄 Pronouns: He/Him/His
 
 ---
-#### ⌨️ [Weekly Coding Time](https://wakatime.com/dashboard) \[Currently in an internal network environment, unable to be tracked\]
+#### ⌨️ [Weekly Coding Time](https://wakatime.com/dashboard) \[Currently work in an internal network environment, unable to be tracked\]
 
 <!--START_SECTION:waka-->
 
